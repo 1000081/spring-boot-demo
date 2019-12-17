@@ -1,0 +1,1 @@
+INSERT INTO ADDRESS VALUES (1, '700','Legacy Drive', 'PLANO', 'IL', '75024');
